@@ -22,7 +22,7 @@ The chat app's functionalities includes:
 
 [Live Site (in-progress)]()
 
-![screenshot](public/img/screenshot.jpg)
+![screenshot](public/img/screen.png)
 
 ## Dependencies
 
