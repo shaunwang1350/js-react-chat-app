@@ -1,7 +1,7 @@
 # js-react-chat-app
 
 ![Developement](https://img.shields.io/badge/progress-incomplete-orange)
-![commit](https://img.shields.io/github/last-commit/shaunwang1350/js-Movies-App)
+![commit](https://img.shields.io/github/last-commit/shaunwang1350/js-react-chat-app)
 ![githubfollows](https://img.shields.io/github/followers/shaunwang1350?style=social)
 
 ## Summary
