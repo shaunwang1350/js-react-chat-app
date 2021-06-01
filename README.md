@@ -1,4 +1,4 @@
-# js-react-chat-app
+# js-react-chat-app | Real-time React Chat App
 
 ![Developement](https://img.shields.io/badge/progress-incomplete-orange)
 ![commit](https://img.shields.io/github/last-commit/shaunwang1350/js-react-chat-app)
