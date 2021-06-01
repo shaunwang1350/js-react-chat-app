@@ -11,6 +11,7 @@ The js-react-chat-app is a simple React Chat App that utilizes existing Chatengi
 The chat app's functionalities includes:
 
 - Chat functionality
+- Login system
 - Updates user's online statuses
 - Allows for icons/status change for read messages
 - Supports images/sound notifications
