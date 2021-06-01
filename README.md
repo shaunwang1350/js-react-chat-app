@@ -6,7 +6,16 @@
 
 ## Summary
 
-The js-react-chat-app is a simple React Chat App that updates online statuses, allows for icons for read messages, supports images/sound notifications, create multiple rooms, and creates independent users per chat user.
+The js-react-chat-app is a simple React Chat App that utilizes existing Chatengine.io to host and employs existing components created by npmjs.
+
+The chat app's functionalities includes:
+
+- Chat functionality
+- Updates user's online statuses
+- Allows for icons/status change for read messages
+- Supports images/sound notifications
+- Create multiple/ seperate rooms for chats
+- Creates independent users per chat user
 
 ## Dependencies
 
